@@ -1,0 +1,24 @@
+camera_matrix:
+  cols: 3
+  data: [328.6788601585836, 0.0, 312.4909420657363, 0.0, 327.58125453335975, 218.78138392675132,
+    0.0, 0.0, 1.0]
+  rows: 3
+camera_name: rafbar/camera_node
+distortion_coefficients:
+  cols: 5
+  data: [-0.2670609072035055, 0.05273407116673723, -0.0002332112124370988, -0.0014447247444175182,
+    0.0]
+  rows: 1
+distortion_model: plumb_bob
+image_height: 480
+image_width: 640
+projection_matrix:
+  cols: 4
+  data: [229.23623657226562, 0.0, 312.0508975057055, 0.0, 0.0, 266.149169921875, 207.1685953969136,
+    0.0, 0.0, 0.0, 1.0, 0.0]
+  rows: 3
+rectification_matrix:
+  cols: 3
+  data: [1.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 1.0]
+  rows: 3
+
